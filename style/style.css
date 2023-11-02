@@ -1,0 +1,15 @@
+header{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+.bg-img{
+    background: url(../assets/images/architect.jpg);
+    height: 87vh;
+    display: flex;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+#about-section img{
+    filter: grayscale(0.7);
+}
